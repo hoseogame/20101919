@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable = "@drawable/enemyw_1" android:duration = "200" />
+    <item android:drawable = "@drawable/enemyw_2" android:duration = "200" />
+    <item android:drawable = "@drawable/enemyw_3" android:duration = "200" />
+    <item android:drawable = "@drawable/enemyw_4" android:duration = "200" />
+    <item android:drawable = "@drawable/enemyw_5" android:duration = "200" />
+    <item android:drawable = "@drawable/enemyw_6" android:duration = "200" />
+    <item android:drawable = "@drawable/enemyw_7" android:duration = "200" />
+    <item android:drawable = "@drawable/enemyw_8" android:duration = "200" />
+
+</animation-list>

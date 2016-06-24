@@ -1,0 +1,36 @@
+
+ C:\Users\jin\Documents\GitHub\20101919 디렉터리
+
+2016-06-16  오후 09:28            14,148 activity_battle.xml
+2016-06-16  오후 07:08             8,625 activity_book.xml
+2016-05-03  오후 02:54             6,000 activity_loading.xml
+2016-06-16  오후 09:45             4,574 activity_main.xml
+2016-06-16  오후 04:54            14,865 activity_menu.xml
+2016-06-16  오후 09:02               264 alpha.xml
+2016-06-16  오후 04:37             2,835 AndroidManifest.xml
+2016-04-25  오후 05:04               430 bar.xml
+2016-05-17  오후 12:20               222 bar2.xml
+2016-06-16  오후 06:56               772 enemywarp.xml
+2016-05-03  오전 10:02               421 hp.xml
+2016-06-15  오후 09:35               631 hpenemy_bar.xml
+2016-06-14  오전 09:36               621 hp_bar.xml
+2016-06-14  오전 04:05               631 main.xml
+2016-05-27  오후 01:52               452 mon1.xml
+2016-06-15  오후 08:45               452 mon2.xml
+2016-06-16  오후 07:12               458 shild.xml
+2016-06-14  오전 08:06               630 skill_bar.xml
+2016-06-15  오후 03:53               756 warp.xml
+
+ C:\Users\jin\Documents\GitHub\20101919 디렉터리
+
+2016-06-16  오후 09:27            10,651 BattleActivity.java
+2016-06-16  오후 05:02             4,739 BookActivity.java
+2016-06-14  오전 04:34             1,135 LoadActivity.java
+2016-06-16  오후 09:31             4,644 MainActivity.java
+2016-06-16  오후 06:48            10,244 MenuActivity.java
+2016-06-14  오전 04:39               896 PublicActivity.java
+              25개 파일              90,096 바이트
+
+     전체 파일:
+              25개 파일              90,096 바이트
+               0개 디렉터리  20,029,038,592 바이트 남음
